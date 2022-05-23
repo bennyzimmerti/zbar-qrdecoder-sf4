@@ -8,7 +8,6 @@ use RobbieP\ZbarQrdecoder\Result\Parser\ParserXML;
 use RobbieP\ZbarQrdecoder\Result\ResultCollection;
 use Symfony\Component\Process\Exception\ProcessFailedException;
 use Symfony\Component\Process\Process;
-use Symfony\Component\Process\ProcessBuilder;
 
 class ZbarDecoder
 {
